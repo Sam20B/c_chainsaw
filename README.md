@@ -1,2 +1,2 @@
 # c_chainsaw
-content: c code snippets and  personal projects
+This here prompts the user for the change owed after a sale and calculates the tax, tip and change to  be returned
